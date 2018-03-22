@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/action_add"
+        android:enabled="true"
+        android:title="H"
+        tools:icon="@android:drawable/ic_secure" />
+    <item
+        android:id="@+id/action_abb"
+        android:enabled="true"
+        android:icon="?attr/actionModeShareDrawable"
+        android:title="S" />
+    <item
+         android:id="@+id/action_acc"
+          android:enabled="true"
+         android:title="No"/>
+
+
+</menu>
