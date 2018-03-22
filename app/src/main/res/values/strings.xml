@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name" translatable="false">FitnessPursuit</string>
+
+    <string-array name="Main">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    
+    <string-array name="Description">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 4</item>
+        <item>Description 5</item>
+        <item>Description 6</item>
+        <item>Description 7</item>
+    </string-array>
+
 </resources>
