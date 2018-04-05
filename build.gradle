@@ -17,6 +17,9 @@ buildscript {
         // in the individual module build.gradle files
     }
     var
+    dependencies {
+        classpath 'com.google.gms:google-services:3.1.0'
+    }
 }
 
 allprojects {
